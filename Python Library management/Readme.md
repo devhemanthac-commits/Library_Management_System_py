@@ -13,6 +13,11 @@ A feature-rich desktop application for managing a library, built with Python's *
 
 </div>
 
+
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/d9009df4-b7d6-4b34-aaa4-759358738788" />
+
+
 ---
 
 ## 🚀 Core Features
