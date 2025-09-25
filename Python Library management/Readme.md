@@ -1,15 +1,15 @@
 <div align="center">
 
+# 📚 Advanced Library Management System 📚
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/Database-MySQL-orange.svg?style=for-the-badge&logo=mysql" alt="Database">
+  <img src="https://img.shields.io/badge/GUI-Tkinter-green.svg?style=for-the-badge" alt="GUI">
+  <img src="https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge" alt="License">
+</p>
 
-### ✨ Application in Action!
-
-<div align="center">
-
-<!-- IMPORTANT: Replace this placeholder with a GIF of your application! 
-     You can use a screen recorder like GIPHY Capture, ScreenToGif, or Kap to create it. -->
-<img src="https://placehold.co/800x450/2d3748/e2e8f0.png?text=Application+Demo+GIF+Here" alt="Animated Demo of the Library System" width="800"/>
+A feature-rich desktop application for managing a library, built with Python's **Tkinter** for the GUI and a **MySQL** backend. This project provides a robust, modern, and user-friendly solution for all library operations.
 
 </div>
 
